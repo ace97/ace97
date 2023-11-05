@@ -4,7 +4,7 @@ As a graduate of Data Analytics for Business from St. Clair College, I have a st
 
 I have two years of experience as a Data Engineer at Tata Consultancy Services, where I managed and optimized Apache Airflow pipelines for ETL using Python, SQL, and Scala for Nielsen client in the retail industry. I hosted applications on AWS suite, identified and resolved bottlenecks, and mentored junior team members. I also led a Data Analysis project for StaffedUp, a web-based ATS application, where I conducted competitor analysis, data collection, EDA, and developed ML models to create customer segmentation and analysis. I provided suggestions that improved the website ranking and KPIs by 20% and 25% respectively. I am proficient in Agile Software Development, Data Science, and Apache Airflow, and I am eager to learn new technologies and tools.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ace97)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ace97&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
