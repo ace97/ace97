@@ -7,7 +7,6 @@ I have two years of experience as a Data Engineer at Tata Consultancy Services, 
 
 Skills: Python / SQL / shell scripting / Data Analysis / Data Engineering
 
-[![Anirudh's GitHub stats](https://github-readme-stats.vercel.app/api?username=ace97&show_icons=true&theme=dark&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ace97)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/anirudhce/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/AnirudhCE)  
