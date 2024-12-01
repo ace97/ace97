@@ -1,11 +1,12 @@
 ### Hi there, My name is Anirudh👋
-#### I am a Software Developer at heart 
-A graduate of Data Analytics for Business from St. Clair College. I have a strong foundation in data science, machine learning, and business intelligence. Passionate about finding insights and solutions from data that can drive business growth and innovation. Seeking new and exciting opportunities to apply my skills and knowledge to solve .
+#### I enjoy solving problems and working with data 
 
-With over two years of experience as a DevOps/SRE at Tata Consultancy Services, I managed and optimized Apache Airflow pipelines for ETL using Python, SQL, and Scala for Nielsen . Hosted applications on AWS suite, identified and resolved bottlenecks as an SRE, and mentored junior team members. I have also led a Data Analysis project for StaffedUp, a web-based ATS app, where I conducted competitor analysis, data collection, EDA, and developed ML models to create customer segmentation and analysis. 
+ I have a strong foundation in data science, machine learning, and business intelligence. Passionate about finding insights and solutions from data that can drive business growth and innovation. Seeking new and exciting opportunities to apply my skills and knowledge to solve. Currently a Data Analyst at a leading global provider of advanced analytics in Healthcare.
+
+In my previous role as a Data Engineer/DevOps at Tata Consultancy Services, I managed and optimized Data pipelines on Apache Airflow for ETL using Python, SQL, and Scala for Nielsen . Hosted applications on AWS suite, identified and resolved bottlenecks while on-call, and mentored junior team members.  
 
 ##### Tools: Python / SQL / Terraform / Ansible / Docker / Jenkins / Kubernetes  / shell scripting
-##### Skills: Software Engineering / Data Analysis / Data Engineering / Cloud Computing
+##### Skills: Software Engineering / Data Analysis / Data Engineering / Cloud Computing / Machine Learning
 
 
 
