@@ -5,7 +5,7 @@
 
 In my previous role as a Data Engineer/DevOps at Tata Consultancy Services, I managed and optimized Data pipelines on Apache Airflow for ETL using Python, SQL, and Scala for Nielsen . Hosted applications on AWS suite, identified and resolved bottlenecks while on-call, and mentored junior team members.  
 
-##### Tools: Python / SQL / Terraform / Ansible / Docker / Jenkins / Kubernetes  / shell scripting
+##### Tools: Python / SQL / Databricks / Terraform / Ansible / Docker / Jenkins / Kubernetes  / shell scripting
 ##### Skills: Software Engineering / Data Analysis / Data Engineering / Cloud Computing / Machine Learning
 
 
