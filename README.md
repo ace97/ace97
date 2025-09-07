@@ -1,11 +1,10 @@
 ### Hi there, My name is Anirudh👋
-#### I enjoy solving problems and working with data 
 
- I have a strong foundation in data science, machine learning, and business intelligence. Passionate about finding insights and solutions from data that can drive business growth and innovation. Seeking new and exciting opportunities to apply my skills and knowledge to solve. Currently a Data Analyst at a leading global provider of advanced analytics in Healthcare.
+ With a strong foundation in data science, machine learning and business intelligence; I enjoy solving problems and working with data. Passionate about finding insights and solutions from data that can drive business growth and innovation. Seeking new and exciting opportunities to apply my skills and knowledge to solve. Currently a Data Analyst at a leading global provider of advanced analytics in Healthcare.
 
-In my previous role as a Data Engineer/DevOps at Tata Consultancy Services, I managed and optimized Data pipelines on Apache Airflow for ETL using Python, SQL, and Scala for Nielsen . Hosted applications on AWS suite, identified and resolved bottlenecks while on-call, and mentored junior team members.  
+In my previous role as a Data Engineer at Tata Consultancy Services, I managed and optimized Data pipelines on Apache Airflow for ETL using Python, SQL, and Scala for our client. Hosted applications on AWS suite, identified and resolved bottlenecks while on-call, and mentored junior team members.  
 
-##### Tools: Python / SQL / Databricks / Terraform / Ansible / Docker / Jenkins / Kubernetes  / shell scripting
+##### Tools: Python / SQL / Databricks / Terraform / Ansible / Docker / Jenkins / Kubernetes / shell scripting
 ##### Skills: Software Engineering / Data Analysis / Data Engineering / Cloud Computing / Machine Learning
 
 
